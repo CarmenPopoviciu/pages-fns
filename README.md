@@ -1,4 +1,4 @@
-# ⚡️⚡️ pages-fns ⚡️⚡️
+# ⚡️⚡️⚡️ pages-fns ⚡️⚡️⚡️
 Playground repo for [Pages Functions](https://developers.cloudflare.com/pages/platform/functions)
 
 ## Local dev
